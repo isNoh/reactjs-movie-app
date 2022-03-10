@@ -1,0 +1,17 @@
+.movie {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  height: 450px;
+}
+
+.movie-pic {
+  margin-right: 200px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.hair-line {
+  padding: 0px 30px;
+  box-sizing: border-box;
+}
